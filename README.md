@@ -8,5 +8,5 @@ A viewable webpage with relavant elements relating to a recipe.
 Skills Demostrated:
 - HTML Boilerplate usage
 - Initializing a functional webpage
-- Use of many elements such as <ul>, <ol>, <p> with formatting
+- Use of many elements such as' ul', 'ol', 'p' with formatting
 - Meta-learning
